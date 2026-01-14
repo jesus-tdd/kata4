@@ -1,7 +1,7 @@
-package app;
+package app.io;
 
-import model.Pokemon;
-import model.Pokemon.Type;
+import architecture.model.Pokemon;
+import architecture.model.Pokemon.Type;
 
 import java.util.ArrayList;
 import java.util.List;

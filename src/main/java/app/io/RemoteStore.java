@@ -1,7 +1,7 @@
-package app;
+package app.io;
 
-import io.Store;
-import model.Pokemon;
+import architecture.io.Store;
+import architecture.model.Pokemon;
 
 import java.io.BufferedReader;
 import java.io.IOException;

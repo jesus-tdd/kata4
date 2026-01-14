@@ -1,6 +1,6 @@
-package io;
+package architecture.io;
 
-import model.Pokemon;
+import architecture.model.Pokemon;
 
 import java.util.stream.Stream;
 

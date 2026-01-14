@@ -1,12 +1,13 @@
 package app;
 
-import model.Pokemon;
-import tasks.HistogramBuilder;
-import viewmodel.Histogram;
+import app.io.CsvPokeParser;
+import app.io.RemoteStore;
+import app.view.MainFrame;
+import architecture.model.Pokemon;
+import architecture.tasks.HistogramBuilder;
+import architecture.viewmodel.Histogram;
 
 import java.util.stream.Stream;
-
-import static model.Pokemon.*;
 
 public class Main {
     static void main() {

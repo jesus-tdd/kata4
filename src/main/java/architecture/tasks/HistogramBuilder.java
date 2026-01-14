@@ -1,7 +1,7 @@
-package tasks;
+package architecture.tasks;
 
-import model.Pokemon;
-import viewmodel.Histogram;
+import architecture.model.Pokemon;
+import architecture.viewmodel.Histogram;
 
 import java.util.HashMap;
 import java.util.Map;

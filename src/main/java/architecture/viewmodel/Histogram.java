@@ -1,4 +1,4 @@
-package viewmodel;
+package architecture.viewmodel;
 
 import java.util.HashMap;
 import java.util.Iterator;

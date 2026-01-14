@@ -1,10 +1,10 @@
-package app;
+package app.view;
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
 import org.jfree.data.category.DefaultCategoryDataset;
-import viewmodel.Histogram;
+import architecture.viewmodel.Histogram;
 
 import javax.swing.*;
 import java.awt.*;
